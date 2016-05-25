@@ -38,6 +38,31 @@ return resultado;
        System.out.println(cad);
 }
 
+    public static void main(String[] args) {
+        
+       StringAleatorio st = new StringAleatorio();
+       
+       String cad = st.cadenaAleatoria(20);
+       
+       System.out.println(cad);
+}
+    public static void main(String[] args) {
+        
+       StringAleatorio st = new StringAleatorio();
+       
+       String cad = st.cadenaAleatoria(20);
+       
+       System.out.println(cad);
+}
+    public static void main(String[] args) {
+        
+       StringAleatorio st = new StringAleatorio();
+       
+       String cad = st.cadenaAleatoria(20);
+       
+       System.out.println(cad);
+}
+
 
 
 }
