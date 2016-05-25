@@ -6,7 +6,7 @@ package stringaleatorio;
 
 /**
  *
- * @author 17705280
+ * @author Claudio
  */
 public class StringAleatorio {
 
@@ -37,4 +37,7 @@ return resultado;
        
        System.out.println(cad);
 }
+
+
+
 }
